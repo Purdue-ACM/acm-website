@@ -1,0 +1,27 @@
+/*********************************************************************************/
+/* Basic                                                                         */
+/*********************************************************************************/
+
+	.slide
+	{
+	}
+
+		.slide:after
+		{
+			background: none;
+		}
+
+	.nicescroll-cursor
+	{
+		background: #bbb;
+	}
+
+/*********************************************************************************/
+/* BG                                                                            */
+/*********************************************************************************/
+
+	#bg
+	{
+		filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='../images/background2.jpg',sizingMethod='scale');
+		-ms-filter: "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/background2.jpg',sizingMethod='scale')";
+	}
