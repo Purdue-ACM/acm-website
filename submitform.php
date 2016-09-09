@@ -29,7 +29,7 @@ if (!filter_var($email, FILTER_VALIDATE_EMAIL)) {
 }
 
 $ip = $_SERVER['REMOTE_ADDR'];
-if (mail("acm+contactform@purdue.edu", "ACM Form Submission", "IP: $ip\n\n$msg",
+if (mail("acm+contactform@cs.purdue.edu", "ACM Form Submission", "IP: $ip\n\n$msg",
 "From: \"$name\" <$email>")) {
 	//header(':', true, 200);
 	http_response_code_custom(200);
@@ -38,7 +38,7 @@ if (mail("acm+contactform@purdue.edu", "ACM Form Submission", "IP: $ip\n\n$msg",
 else {
 	//header(':', true, 500);
 	http_response_code_custom(500);
-	echo "The was a problem on the mail server. Please try again or contact acm+webmaster@purdue.edu directly.";
+	echo "The was a problem on the mail server. Please try again or contact acm+webmaster@cs.purdue.edu directly.";
 }
 
 function http_response_code_custom($code = NULL) {
