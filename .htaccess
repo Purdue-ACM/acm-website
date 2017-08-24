@@ -10,3 +10,5 @@ AddType video/mp4 .mp4
 	Order allow,deny
 	Deny from all
 </Files>
+# disable directory browsing
+Options All -Indexes
