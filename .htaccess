@@ -2,3 +2,13 @@ AddType video/webm .webm
 AddType video/ogg .ogv
 AddType video/mp4 .mp4
 
+<Files .htaccess>
+	Order allow,deny
+	Deny from all
+</Files>
+<Files .git>
+	Order allow,deny
+	Deny from all
+</Files>
+# disable directory browsing
+Options All -Indexes
