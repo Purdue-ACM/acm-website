@@ -1,22 +1,35 @@
-# projects section data
-# If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+# Projects section data
 - name: PROS
   i18n: pros
   gh_user: purduesigbots
   repo: pros
-  img: /static/assets/img/landing/pros-tux-fc-b.png
-  desc: Open Source C/C++ Development for VEX Cortex and the Upcoming V5 Microcontroller
+  img: /static/assets/img/landing/projects/pros-tux-fc-b.png
+  desc: Open Source C/C++ Development for VEX Cortex and the Upcoming V5 Microcontroller.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: BoilerFaves
+  i18n: BoilerFaves
+  gh_user: Purdue-ACM-SIGAPP
+  repo: BoilerFaves
+  img: /static/assets/img/landing/projects/boilerfaves.png
+  desc: An android app that sends you a notifications when food you like is available in the Purdue dining courts. In Honor of Lucas Shanker.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: Purdue Laundry
+  i18n: purduelaundry
+  gh_user: Purdue-ACM-SIGAPP
+  repo: PurdueLaundry-android
+  img: /static/assets/img/landing/projects/purduelaundry.png
+  desc: Laundry App for Purdue University.
+
+- name: Project W
+  i18n: projectw
+  gh_user: PurdueSIGGD
+  repo: ProjectW
+  img: /static/assets/img/landing/projects/defaulticon.svg
+  desc: SIGGD's Fall 2017 - Spring 2018 Project, a multiplayer class-based wizard fighting game.
+
+- name: Snake AI V2
+  i18n: snakev2
+  gh_user: PurdueSIGAI
+  repo: Snake-V2
+  img: /static/assets/img/landing/projects/defaulticon.svg
+  desc: Revamp of SIGAI's Snake AI.
