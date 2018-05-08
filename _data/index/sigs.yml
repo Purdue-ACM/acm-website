@@ -2,7 +2,7 @@
 
 - name: SIGAI
   i18n: sigai
-  img: /static/assets/img/landing/sigai_logo.png
+  img: /static/assets/img/landing/sig-logos/sigai_logo.png
   president: Jean-Michael Diei
   email: jdiei@purdue.edu
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
@@ -12,11 +12,11 @@
 
 - name: SIGAPP
   i18n: sigapp
-  img: /static/assets/img/landing/sigapp_logo.png
+  img: /static/assets/img/landing/sig-logos/sigapp_logo.png
   url: https://sigapp.cs.purdue.edu/
   president: Jordan Pitlor
   email: jpitlor@purdue.edu
-  desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends. 
+  desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends.
   meeting-room: LWSN B148
   meeting-day: Tuesday, Thursday
   meeting-time: 7:00PM
@@ -24,7 +24,7 @@
 - name: SIGBOTS
   i18n: sigbots
   url: https://purduesigbots.com/
-  img: /static/assets/img/landing/sigbots_logo.png
+  img: /static/assets/img/landing/sig-logos/sigbots_logo.png
   president: Lucas Baston
   email: lbaston@purdue.edu
   desc: SIGBOTS is focused on competition in the VEX U Robotics Competition and maintaining PROS, an open-source Robotics Operating System.
@@ -35,7 +35,7 @@
 - name: SIGGD
   i18n: siggd
   url: http://purduesiggd.github.io/
-  img: /static/assets/img/landing/siggd_logo.png
+  img: /static/assets/img/landing/sig-logos/siggd_logo.png
   president: TBD
   email: TBD
   desc: SIGGD is a group of multi-disciplinary students who collaborate to create creative and interesting video games.
