@@ -19,15 +19,25 @@ permalink: /
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav navbar-right" id="i18_navbar">
           {% for section in site.data.landing %}
-          <li>
-            {% if section.page %}
-              <a class="page-scroll" href="{{ section.page}} ">
-            {% else %}
-              <a class="page-scroll" href="{{ section.id | prepend: '#'}} ">
-            {% endif %}
-              <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
-            </a>
-          </li>
+          {% assign counter = '0' %}
+          {% if section.name == 'Upcoming Events' %}
+            {% for obj in site.data.index.upcoming-events %}
+              {% assign counter = forloop.length %}
+            {% endfor %}
+          {% else %}
+            {% assign counter = '1' %}  
+          {% endif %}
+          {% if counter != '0' %}
+            <li>
+              {% if section.page %}
+                <a class="page-scroll" href="{{ section.page}} ">
+              {% else %}
+                <a class="page-scroll" href="{{ section.id | prepend: '#'}} ">
+              {% endif %}
+                <span data-i18n="{{ section.i18n }}">{{ section.name }}</span>
+              </a>
+            </li>
+          {% endif %}
           {% endfor %}
           {% for language in site.data.index.language %}
           <li>
