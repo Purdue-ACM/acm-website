@@ -1,0 +1,7 @@
+# carousel banners section
+# Add items for each banner image in the carousel
+- src: /static/assets/img/landing/background4.jpg
+  title: first banner image
+
+- src: /static/assets/img/landing/siggd.jpg
+  title: second banner image

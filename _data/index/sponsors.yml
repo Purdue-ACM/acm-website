@@ -1,0 +1,12 @@
+# Sponsor information
+# Tiers are: Platinum, Gold, Silver
+
+- name: Hawken Media
+  tier: platinum
+  img: /static/assets/img/sponsors/hawkenmedia.png
+  url: http://www.hawkenmedia.com/
+
+- name: Microsoft
+  tier: gold
+  img: /static/assets/img/sponsors/microsoft.png
+  url: http://www.microsoft.com/
