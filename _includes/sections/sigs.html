@@ -9,16 +9,20 @@
       <p>
         SIG stands for Special Interest Group. During the year, each SIG will meet for roughly two hours per week and work on a project. These aren't your standard class projects, though. In ACM, you'll get to work on cool things like create the official Purdue app, go to the VEX Robotics World Championships, or design a system that can reconstruct shredded documents.
       </p>
+    </div>
         {% for sig in site.data.index.sigs %}
             {% assign loopindex = forloop.index | modulo: 2 %}
+            {% if loopindex == 1 %}
+              <div class="row text-center">
+            {% endif %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
-                  <div class="col-sm-6 wow col-sm-offset-3 zoomIn">
+                  <div class="col-lg-6 wow col-lg-offset-3 zoomIn">
                 {% else %}
-                  <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft col-sm-offset-3 {% else %} fadeInRight {% endif %}">
+                  <div class="col-lg-6 wow {% if loopindex == 1 %} fadeInLeft col-lg-offset-3 {% else %} fadeInRight {% endif %}">
                 {% endif %}
             {% else %}
-            <div class="col-sm-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            <div class="col-lg-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
                   <a href="{{ sig.url }}" target="_blank"><img src="{{ sig.img | prepend: site.baseurl }}" class="img-responsive img-sig" alt=""></a>
@@ -53,6 +57,13 @@
                   </h4>
               </div>
           </div>
+          {% if loopindex == 0 %}
+            </div>
+          {% else %}
+            {% if forloop.last %}
+              </div>
+            {% endif %}
+          {% endif %}
       {% endfor %}
     </div>
 </div>
