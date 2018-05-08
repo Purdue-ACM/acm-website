@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Purdue ACM</title>
-    <description></description>
+    <description>Homepage for Purdue's ACM chapter</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 08 May 2018 13:10:00 -0400</pubDate>
-    <lastBuildDate>Tue, 08 May 2018 13:10:00 -0400</lastBuildDate>
+    <pubDate>Tue, 08 May 2018 13:14:26 -0400</pubDate>
+    <lastBuildDate>Tue, 08 May 2018 13:14:26 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
   </channel>
