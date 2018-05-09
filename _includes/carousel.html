@@ -10,8 +10,9 @@
 </div>
 <div id="inSlider" class="carousel carousel-fade" data-ride="carousel">
     <ol class="carousel-indicators">
-        <li data-target="#inSlider" data-slide-to="0" class="active"></li>
-        <li data-target="#inSlider" data-slide-to="1"></li>
+      {% for banner in site.data.index.banners %}
+        <li data-target="#inSlider" data-slide-to="{{ forloop.index0 }}" class="{% if forloop.index0 == 0 %}active{% endif %}"></li>
+      {% endfor %}
     </ol>
     <div class="carousel-inner" role="listbox">
         <div class="item active">
@@ -31,7 +32,6 @@
         <div class="item">
             <div class="container">
                 <div class="carousel-image wow zoomIn">
-                    <!-- <img src="static/img/landing/laptop.png" alt="laptop"/> -->
                 </div>
             </div>
             <!-- Set background for slide in css -->
