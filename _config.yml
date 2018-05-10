@@ -6,6 +6,7 @@ description: Homepage for Purdue's ACM chapter
 keywords: Purdue, ACM, SIGAI, SIGAPP, SIGGD, SIGBots
 baseurl:
 url: https://acm.cs.purdue.edu
+# If testing locally, set url to the location of the repo's folder
 img_path:
 
 # analytics
