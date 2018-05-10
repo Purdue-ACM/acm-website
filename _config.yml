@@ -5,7 +5,7 @@ title: Purdue ACM
 description: Homepage for Purdue's ACM chapter
 keywords: Purdue, ACM, SIGAI, SIGAPP, SIGGD, SIGBots
 baseurl:
-url: https://acm.cs.purdue.edu
+url: https://www.cs.purdue.edu/homes/baylessj/
 # If testing locally, set url to the location of the repo's folder
 img_path:
 

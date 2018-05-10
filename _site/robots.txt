@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: <file:///C:/Users/Jonathan/vexRepos/acm-website/_site/sitemap.xml>
+Sitemap: <https://www.cs.purdue.edu/homes/baylessj//sitemap.xml>

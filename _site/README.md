@@ -2,6 +2,8 @@
 
 The ACM homepage, hosted at https://acm.cs.purdue.edu.
 
+Built with [Jekyll](https://jekyllrb.com/) using the [Jalpc Theme](https://github.com/jarrekk/Jalpc).
+
 ## Contributing
 
 This repository and website belongs to the officers of ACM and all updates will need to be approved by them. Please feel free to submit PRs and issues to this repo as necessary.
