@@ -1,0 +1,37 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Purdue ACM
+description: Homepage for Purdue's ACM chapter
+keywords: Purdue, ACM, SIGAI, SIGAPP, SIGGD, SIGBots
+baseurl:
+url: https://acm.cs.purdue.edu
+# If testing locally, set baseurl to the location of the repo's folder
+img_path:
+
+# analytics
+## google analytics
+ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
+  id: UA-93473370-3
+
+## google optimize
+go:
+  # id:
+
+## carousels
+index_carousel: on  # index page carousel switch
+blog_carousel: on  # blog page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+# other settings
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge

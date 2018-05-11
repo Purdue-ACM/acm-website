@@ -1,17 +1,33 @@
----
-layout: null
-title : Sitemap
----
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for post in site.posts %}
+
+
     <url>
-        <loc>{{site.url}}{{ post.url }}</loc>
+        <loc>/404.html</loc>
     </url>
-{% endfor %}
-{% for page in site.pages %}
+
     <url>
-        <loc>{{site.url}}{{ page.url }}</loc>
+        <loc>/static/css/custom.css</loc>
     </url>
-{% endfor %}
+
+    <url>
+        <loc>/feed.xml</loc>
+    </url>
+
+    <url>
+        <loc>/</loc>
+    </url>
+
+    <url>
+        <loc>/robots.txt</loc>
+    </url>
+
+    <url>
+        <loc>/search.json</loc>
+    </url>
+
+    <url>
+        <loc>/sitemap.xml</loc>
+    </url>
+
 </urlset>

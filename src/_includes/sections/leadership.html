@@ -1,0 +1,32 @@
+<div class="container" id="i18_leadership">
+  <div class="row m-b-lg">
+      <div class="col-lg-12 text-center">
+          <div class="navy-line"></div>
+          <h1><span data-i18n="leadership.leadership">Leadership</span></h1>
+      </div>
+  </div>
+  {% for leader in site.data.index.leadership %}
+    {% assign loopindex = forloop.index | modulo: 2 %}
+    {% if loopindex == 1 %}
+      <div class="row">
+        <div class="col-lg-4 leader">
+          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive">
+        </div>
+        <div class="col-lg-8 leader">
+          <h1>{{ leader.position }} - {{ leader.name }}</h1>
+          <p>{{ leader.desc }}</p>
+        </div>
+      </div>
+    {% else %}
+      <div class="row">
+        <div class="col-lg-8 leader">
+          <h1>{{ leader.position }} - {{ leader.name }}</h1>
+          <p>{{ leader.desc }}</p>
+        </div>
+        <div class="col-lg-4 leader">
+          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive">
+        </div>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>s
