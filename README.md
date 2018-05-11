@@ -14,7 +14,7 @@ All of the information on the website that is subject to change from year to yea
 
 ### Building the Docs
 
-The docs site is build with [Jekyll](https://jekyllrb.com/).
+The site is build with [Jekyll](https://jekyllrb.com/).
 
 Jekyll depends on Ruby for building, so following the [installation guides](https://jekyllrb.com/docs/installation/) is recommended.
 

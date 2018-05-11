@@ -3,10 +3,10 @@
   <channel>
     <title>Purdue ACM</title>
     <description>Homepage for Purdue's ACM chapter</description>
-    <link>https://acm.cs.purdue.edu/</link>
-    <atom:link href="https://acm.cs.purdue.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 May 2018 15:23:31 -0400</pubDate>
-    <lastBuildDate>Fri, 11 May 2018 15:23:31 -0400</lastBuildDate>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 May 2018 15:28:50 -0400</pubDate>
+    <lastBuildDate>Fri, 11 May 2018 15:28:50 -0400</lastBuildDate>
     <generator>Jekyll v3.8.1</generator>
     
   </channel>
