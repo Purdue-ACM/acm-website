@@ -3,31 +3,31 @@
 
 
     <url>
-        <loc>/404.html</loc>
+        <loc>https://acm.cs.purdue.edu/404.html</loc>
     </url>
 
     <url>
-        <loc>/static/css/custom.css</loc>
+        <loc>https://acm.cs.purdue.edu/static/css/custom.css</loc>
     </url>
 
     <url>
-        <loc>/feed.xml</loc>
+        <loc>https://acm.cs.purdue.edu/feed.xml</loc>
     </url>
 
     <url>
-        <loc>/</loc>
+        <loc>https://acm.cs.purdue.edu/</loc>
     </url>
 
     <url>
-        <loc>/robots.txt</loc>
+        <loc>https://acm.cs.purdue.edu/robots.txt</loc>
     </url>
 
     <url>
-        <loc>/search.json</loc>
+        <loc>https://acm.cs.purdue.edu/search.json</loc>
     </url>
 
     <url>
-        <loc>/sitemap.xml</loc>
+        <loc>https://acm.cs.purdue.edu/sitemap.xml</loc>
     </url>
 
 </urlset>
