@@ -20,6 +20,13 @@
   img: /static/assets/img/landing/projects/purduelaundry.png
   desc: Laundry App for Purdue University.
 
+- name: Purdue Co-Rec Monitor
+  i18n: corecmonitor
+  gh_user: Purdue-ACM-SIGAPP
+  repo: Purdue-CoRec-Monitor
+  img: /static/assets/img/landing/projects/corecmonitor.png
+  desc: An app for monitoring the status and capacity of the Purdue CoRec.
+
 - name: Project W
   i18n: projectw
   gh_user: PurdueSIGGD
