@@ -21,13 +21,14 @@
                   <img src="{{ project.img | prepend: site.baseurl }}" class="img-responsive img-sig" alt="">
                   <h3>
                   {% if project.url %}
-                  <a href="{{ project.url }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
-                  {% elsif project.repo %}
-                  <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
-                  {% else %}
-                  <span class="navy">{{ project.name }}</span>
+                    <a href="{{ project.url }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
+                    {% elsif project.repo %}
+                    <a href="https://github.com/{{ project.gh_user }}/{{ project.repo }}" target="_blank"><span class="navy">{{ project.name }}</span></a>
+                    {% else %}
+                    <span class="navy">{{ project.name }}</span>
                   {% endif %}
                   </h3>
+                  <h3>by {{ project.sig }}<h3>
                   <p><span data-i18n="projects.{{ project.i18n }}">{{ project.desc }}</span></p>
                   {% if project.repo %}
                   <div user="{{ project.gh_user }}" repo="{{ project.repo }}" class="ghbtn">
