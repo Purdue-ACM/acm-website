@@ -10,28 +10,3 @@
   tier: gold
   img: /static/assets/img/landing/sponsors/microsoft.png
   url: http://www.microsoft.com/
-
-- name: Northrop Grumman
-  tier: gold
-  img: /static/assets/img/landing/sponsors/northrop_grumman.png
-  url: http://www.northropgrumman.com/
-
-- name: Lockheed Martin
-  tier: gold
-  img: /static/assets/img/landing/sponsors/lockheed_martin.png
-  url: https://www.lockheedmartin.com/
-
-- name: Kumon
-  tier: gold
-  img: /static/assets/img/landing/sponsors/kumon.png
-  url: https://www.kumon.com/
-
-- name: Google
-  tier: silver
-  img: /static/assets/img/landing/sponsors/google.png
-  url: https://www.google.com/
-
-- name: Hulu
-  tier: silver
-  img: /static/assets/img/landing/sponsors/hulu.png
-  url: https://www.hulu.com/
