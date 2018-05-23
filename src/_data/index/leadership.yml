@@ -8,9 +8,9 @@
 
 - position: Vice President
   name: Ruihang Du
-  img:
-  email: example@example.com
-  desc: placeholder
+  img: /static/assets/img/landing/leadership/RuihangDu.jpg
+  email: du113@purdue.edu
+  desc: Ruihang is a senior in Computer Science from Beijing, China. Previously, Ruihang has been a member of SIGAI for three years. His passion lies in the field of machine learning and artificial intelligence, and he is actively engaged in related research projects in here at Purdue.
 
 - position: Treasurer
   name: Elliot Berman
