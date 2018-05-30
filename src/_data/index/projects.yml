@@ -1,0 +1,48 @@
+# Projects section data
+- name: PROS
+  i18n: pros
+  gh_user: purduesigbots
+  repo: pros
+  sig: SIGBOTS
+  img: /static/assets/img/landing/projects/pros-tux-fc-b.png
+  desc: Open Source C/C++ Development for VEX Cortex and the Upcoming V5 Microcontroller.
+
+- name: BoilerFaves
+  i18n: BoilerFaves
+  gh_user: Purdue-ACM-SIGAPP
+  repo: BoilerFaves
+  sig: SIGAPP
+  img: /static/assets/img/landing/projects/boilerfaves.png
+  desc: An android app that sends you a notifications when food you like is available in the Purdue dining courts. In Honor of Lucas Shanker.
+
+- name: Purdue Laundry
+  i18n: purduelaundry
+  gh_user: Purdue-ACM-SIGAPP
+  repo: PurdueLaundry-android
+  sig: SIGAPP
+  img: /static/assets/img/landing/projects/purduelaundry.png
+  desc: Laundry App for Purdue University.
+
+- name: Purdue Co-Rec Monitor
+  i18n: corecmonitor
+  gh_user: Purdue-ACM-SIGAPP
+  repo: Purdue-CoRec-Monitor
+  sig: SIGAPP
+  img: /static/assets/img/landing/projects/corecmonitor.png
+  desc: An app for monitoring the status and capacity of the Purdue CoRec.
+
+- name: Project W
+  i18n: projectw
+  gh_user: PurdueSIGGD
+  repo: ProjectW
+  sig: SIGGD
+  img: /static/assets/img/landing/projects/defaulticon.svg
+  desc: SIGGD's Fall 2017 - Spring 2018 Project, a multiplayer class-based wizard fighting game.
+
+- name: Snake AI V2
+  i18n: snakev2
+  gh_user: PurdueSIGAI
+  repo: Snake-V2
+  sig: SIGAI
+  img: /static/assets/img/landing/projects/defaulticon.svg
+  desc: Revamp of SIGAI's Snake AI.
