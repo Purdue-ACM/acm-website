@@ -6,7 +6,7 @@
         </div>
     </div>
     <div class="row">
-      <div class="col-sm-6 text-center wow fadeInLeft">
+      <div class="col-sm-12 text-center wow zoomIn">
           <h2><span class="navy">ACM General Contact</span></h2>
           <p style="margin-bottom: 10px">
             ACM Purdue Chapter<br/>
@@ -16,16 +16,6 @@
           <ul class="list-inline social-icon">
               <li><a href="mailto:acm@cs.purdue.edu"><i class="fa fa-envelope-o"></i></a></li>
           </ul>
-      </div>
-      <div class="col-sm-6 text-center wow fadeInRight">
-        <h2><span class="navy">Leadership Contacts</span></h2>
-        {% for leader in site.data.index.leadership %}
-          <ul class="list-inline social-icon">
-            <li>{{ leader.position }} - {{ leader.name }}</li>
-            <li><a href="mailto:{{ leader.email }}"><i class="fa fa-envelope-o"></i></a></li>
-            </li>
-          </ul>
-        {% endfor %}
       </div>
     </div>
     <div class="row">
