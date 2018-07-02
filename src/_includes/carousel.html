@@ -24,7 +24,8 @@
             <div
             class="header-back"
             style="background-image: url({{ site.data.index.banners[0].src | prepend: site.baseurl }});"
-            title="{{ site.data.index.banners[0].title }}">
+            title="{{ site.data.index.banners[0].title }}"
+            alt="{{ site.data.index.banners[0].title }}">
             </div>
         </div>
 
@@ -35,7 +36,7 @@
                 </div>
             </div>
             <!-- Set background for slide in css -->
-            <div class="header-back" style="background-image: url({{ banner.src | prepend: site.baseurl }});" title="{{ banner.title }}"></div>
+            <div class="header-back" style="background-image: url({{ banner.src | prepend: site.baseurl }});" title="{{ banner.title }}" alt="{{ banner.title }}"></div>
         </div>
         {% endfor %}
 
