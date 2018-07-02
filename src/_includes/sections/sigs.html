@@ -25,7 +25,7 @@
             <div class="col-lg-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
-                  <a href="{{ sig.url }}" target="_blank"><img src="{{ sig.img | prepend: site.baseurl }}" class="img-responsive img-sig" alt=""></a>
+                  <a href="{{ sig.url }}" target="_blank"><img src="{{ sig.img | prepend: site.baseurl }}" class="img-responsive img-sig" title="{{ sig.name }}'s logo" alt="{{ sig.name }}'s logo"></a>
                   <h2>
                   {% if sig.url %}
                   <a href="{{ sig.url }}" target="_blank"><span class="navy">{{ sig.name }}</span></a>

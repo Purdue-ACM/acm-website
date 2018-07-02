@@ -10,7 +10,7 @@
     {% if loopindex == 1 %}
       <div class="row">
         <div class="col-md-4 leader">
-          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive">
+          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive" title="{{ leader.name }}'s photo" alt="{{ leader.name }}'s photo">
         </div>
         <div class="col-md-8 leader">
           <h1>{{ leader.position }} - {{ leader.name }}</h1>
@@ -20,7 +20,7 @@
     {% else %}
       <div class="row">
         <div class="col-md-4 col-md-push-8 leader">
-          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive">
+          <img src="{{ leader.img | prepend: site.baseurl }}" class="img-responsive" title="{{ leader.name }}'s photo" alt="{{ leader.name }}'s photo">
         </div>
         <div class="col-md-8 col-md-pull-4 leader">
           <h1>{{ leader.position }} - {{ leader.name }}</h1>
