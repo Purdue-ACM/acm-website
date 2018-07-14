@@ -30,4 +30,8 @@
         <loc>https://acm.cs.purdue.edu/sitemap.xml</loc>
     </url>
 
+    <url>
+        <loc>https://acm.cs.purdue.edu/sponsorship_tiers</loc>
+    </url>
+
 </urlset>
