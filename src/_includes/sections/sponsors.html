@@ -24,7 +24,7 @@
         {% for sponsor in site.data.index.sponsors %}
           {% if sponsor.tier == "platinum" %}
           <div class="sponsor">
-            <img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" title="{{ sponsor.name }}" alt="{{ sponsor.name }}">
+            <a href="{{ sponsor.url }}"><img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" alt="{{ sponsor.name }}"></a>
           </div>
           {% endif %}
         {% endfor %}
@@ -34,7 +34,7 @@
         {% for sponsor in site.data.index.sponsors %}
           {% if sponsor.tier == "gold" %}
           <div class="sponsor">
-            <img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" title="{{ sponsor.name }}" alt="{{ sponsor.name }}">
+            <a href="{{ sponsor.url }}"><img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" alt="{{ sponsor.name }}"></a>
           </div>
           {% endif %}
         {% endfor %}
@@ -44,7 +44,7 @@
         {% for sponsor in site.data.index.sponsors %}
           {% if sponsor.tier == "silver" %}
           <div class="sponsor">
-            <img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" alt="{{ sponsor.name }}">
+            <a href="{{ sponsor.url }}"><img src="{{ sponsor.img | prepend: site.baseurl }}" class="img-responsive" alt="{{ sponsor.name }}"></a>
           </div>
           {% endif %}
         {% endfor %}

@@ -15,3 +15,8 @@
   tier: silver
   img: /static/assets/img/landing/sponsors/google.png
   url: http://www.google.com/
+
+- name: Hulu
+  tier: silver
+  img: /static/assets/img/landing/sponsors/hulu.png
+  url: http://www.hulu.com/jobs
