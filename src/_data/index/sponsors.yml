@@ -20,3 +20,8 @@
   tier: silver
   img: /static/assets/img/landing/sponsors/hulu.png
   url: http://www.hulu.com/jobs
+
+- name: Facebook
+  tier: gold
+  img: /static/assets/img/landing/sponsors/facebook.png
+  url: http://www.facebook.com/careers
