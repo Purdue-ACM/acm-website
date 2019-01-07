@@ -3,8 +3,8 @@
 - name: SIGAI
   i18n: sigai
   img: /static/assets/img/landing/sig-logos/sigai_logo.png
-  president: Jean-Michael Diei
-  email: jdiei@purdue.edu
+  president: Max Drojjin
+  email: mdrjjn@gmail.com
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
   meeting-room: LWSN B158
   meeting-day: Saturday
@@ -36,8 +36,8 @@
   i18n: siggd
   url: http://purduesiggd.github.io/
   img: /static/assets/img/landing/sig-logos/siggd_logo.png
-  president: Vinson Luo
-  email: vluo@purdue.edu
+  president: Clayton Detke
+  email: cjdetke@yahoo.com
   desc: SIGGD is a group of multi-disciplinary students who collaborate to create creative and interesting video games.
   meeting-room: LWSN B131
   meeting-day: Tuesday, Thursday, Saturday
