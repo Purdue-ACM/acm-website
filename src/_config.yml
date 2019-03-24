@@ -35,3 +35,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+# Add a gem for redirects
+gems:
+  - jekyll-redirect-from
