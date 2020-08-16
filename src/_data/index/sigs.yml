@@ -3,8 +3,8 @@
 - name: SIGAI
   i18n: sigai
   img: /static/assets/img/landing/sig-logos/sigai_logo.png
-  president: Max Drojjin
-  email: mdrjjn@gmail.com
+  president: Krithik Rao
+  email: rao96@purdue.edu
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
   meeting-room: LWSN B158
   meeting-day: Saturday
@@ -14,8 +14,8 @@
   i18n: sigapp
   img: /static/assets/img/landing/sig-logos/sigapp_logo.png
   url: https://sigapp.cs.purdue.edu/
-  president: Jordan Pitlor
-  email: jpitlor@purdue.edu
+  president: Josh Kassman
+  email: jkassman@purdue.edu
   desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends.
   meeting-room: LWSN B160
   meeting-day: Tuesday, Thursday
@@ -25,8 +25,8 @@
   i18n: sigbots
   url: https://purduesigbots.com/
   img: /static/assets/img/landing/sig-logos/sigbots_logo.png
-  president: Lucas Baston
-  email: lbaston@purdue.edu
+  president: Chris Ridenour
+  email: ridenou1@purdue.edu
   desc: SIGBOTS is focused on competition in the VEX U Robotics Competition and maintaining PROS, an open-source Robotics Operating System.
   meeting-room: HAAS G064
   meeting-day: Monday, Tuesday, Wednesday, Thursday

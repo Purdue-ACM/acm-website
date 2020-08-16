@@ -4,7 +4,7 @@
 title: Purdue ACM
 description: Homepage for Purdue's ACM chapter
 keywords: Purdue, ACM, SIGAI, SIGAPP, SIGGD, SIGBots
-baseurl:
+baseurl: /mnt/c/Users/Joe Games/Desktop/acmacm-website
 url: https://acm.cs.purdue.edu
 # If testing locally, set baseurl to the location of the repo's folder
 img_path:

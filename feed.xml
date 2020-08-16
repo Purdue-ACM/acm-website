@@ -3,11 +3,11 @@
   <channel>
     <title>Purdue ACM</title>
     <description>Homepage for Purdue's ACM chapter</description>
-    <link>https://acm.cs.purdue.edu/</link>
-    <atom:link href="https://acm.cs.purdue.edu/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 07 Jan 2019 11:35:33 -0500</pubDate>
-    <lastBuildDate>Mon, 07 Jan 2019 11:35:33 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.3</generator>
+    <link>https://acm.cs.purdue.edu/mnt/c/Users/Joe Games/Desktop/acmacm-website/</link>
+    <atom:link href="https://acm.cs.purdue.edu/mnt/c/Users/Joe Games/Desktop/acmacm-website/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 15 Aug 2020 15:41:18 -0400</pubDate>
+    <lastBuildDate>Sat, 15 Aug 2020 15:41:18 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
     
   </channel>
 </rss>
