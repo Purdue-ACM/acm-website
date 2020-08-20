@@ -1,19 +1,25 @@
 # ACM Leadership
 
 - position: President
-  name: Jonathan Bayless
-  img: /static/assets/img/landing/leadership/JonathanBayless.jpg
-  email: baylessj@purdue.edu
-  desc: Jonathan is a senior in Electrical Engineering from Brownsburg, IN. He has been a part of ACM for four years now, with the two years prior to holding the ACM President position spent as the President of SIGBots. Jonathan has held two internships at Rolls-Royce and one internship at Boeing. In his free time, he enjoys building robots and playing guitar.
+  name: Joseph Busse
+  img: /static/assets/img/landing/leadership/Joe.png
+  email: jbusse@purdue.edu
+  desc: Joe is a senior in Computer Science minoring in Management from Zionsville, IN. He has been a part of ACM for 4 years, starting as a part of SIGBOTS, and this is his second semester as President. He has had 2 internships with Sharpen Technologies. In his free time, he can be found cooking, hiking, or playing games.
 
 - position: Vice President
-  name: Ruihang Du
-  img: /static/assets/img/landing/leadership/RuihangDu.jpg
-  email: du113@purdue.edu
-  desc: Ruihang is a senior in Computer Science from Beijing, China. Previously, Ruihang has been a member of SIGAI for three years. His passion lies in the field of machine learning and artificial intelligence, and he is actively engaged in related research projects in here at Purdue.
+  name: Jami Pryde
+  img: /static/assets/img/landing/leadership/Jami.jpg
+  email: jpryde@purdue.edu
+  desc: Jami Pryde is a sophomore studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the Vice President of SOET Ambassadors and the Strategy Lead for SIGBots. In her free time, Jami can be found relaxing around campus or volunteering with Women in Technology.
 
 - position: Treasurer
-  name: Elliot Berman
-  img: /static/assets/img/landing/leadership/ElliotBerman.jpg
-  email: berman5@purdue.edu
-  desc: Elliot Berman is a senior studying Computer Science and Statistics from Indianapolis, IN. Prior to becoming the ACM Treasurer, he was the development team lead for PROS in SIGBots. Elliot has had two internships with General Electric and one with Qualcomm. When he’s not maintaining financial records for ACM, he can typically be found working with PROS or wandering around campus.
+  name: Shubham Jain
+  img: /static/assets/img/landing/leadership/Shu.jpg
+  email: jain229@purdue.edu
+  desc: Shubham Jain is a senior majoring in Computer Science and minoring in ECE and Math. He is interested primarily in the fields of systems, embedded and game development. In his spare time, he reads fantasy fiction and plays strategy games.
+
+- position: Secretary
+  name: Will Xu
+  img: /static/assets/img/landing/leadership/Will.jpg
+  email: xu1475@purdue.edu
+  desc: Will is a sophomore in Computer Engineering from Tustin, California. Before becoming the ACM Secretary, he was a member of the Software team on the Purdue Sigbots. He is also still currently looking for an internship for the summer of 2021.
