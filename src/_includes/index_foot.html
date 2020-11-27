@@ -1,11 +1,16 @@
-{% include analytics.html %}
+<!-- latest bootstrap -->
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!-- Latest compiled and minified JavaScript -->
+
+<!-- Latest compiled and minified JavaScript for Bootstrap -->
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<!-- latest wow.js inclusion -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js" integrity="sha512-Eak/29OTpb36LLo2r47IpVzPBLXnAMPAVypbSZiZ4Qkf8p/7S/XRG5xp7OKWPPYfJT6metI+IORkR5G8F900+g==" crossorigin="anonymous"></script>
 
 <!-- Main scripts -->
 {% if site.data.index.projects %}
 <script async defer src="{{ "/static/js/github_api.js" | prepend: site.baseurl }}"></script>
 {% endif %}
+<script async defer src="{{ "/static/js/scroll.js" | prepend: site.baseurl }}"></script>
 
 

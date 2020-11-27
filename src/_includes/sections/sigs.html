@@ -17,12 +17,12 @@
             {% endif %}
             {% if forloop.last %}
                 {% if forloop.last == forloop.first %}
-                  <div class="col-lg-6 wow col-lg-offset-3 zoomIn">
+                  <div class="col-lg-6 wow col-lg-offset-3 animate__animated animate__zoomIn">
                 {% else %}
-                  <div class="col-lg-6 wow {% if loopindex == 1 %} fadeInLeft col-lg-offset-3 {% else %} fadeInRight {% endif %}">
+                  <div class="col-lg-6 wow animate__animated {% if loopindex == 1 %} animate__fadeInLeft col-lg-offset-3 {% else %} animate__fadeInRight {% endif %}">
                 {% endif %}
             {% else %}
-            <div class="col-lg-6 wow {% if loopindex == 1 %} fadeInLeft {% else %} fadeInRight {% endif %}">
+            <div class="col-lg-6 wow animate__animated {% if loopindex == 1 %} animate__fadeInLeft {% else %} animate__fadeInRight {% endif %}">
             {% endif %}
               <div class="team-member">
                   <a href="{{ sig.url }}" target="_blank"><img src="{{ sig.img | prepend: site.baseurl }}" class="img-responsive img-sig" title="{{ sig.name }}'s logo" alt="{{ sig.name }}'s logo"></a>
