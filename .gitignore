@@ -1,2 +1,6 @@
-*/.jekyll-cache
-src/_site/
+.jekyll-cache/
+_site/
+
+# Useless Apple files
+*.DS_Store
+
