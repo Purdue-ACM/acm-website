@@ -31,7 +31,7 @@ jobs:
           bundle config path vendor/bundle
           bundle install --jobs 4 --retry 3
 
-      - name: Build Middleman
+      - name: Build Jekyll
         run: bundle exec jekyll build
 
       - name: Deploy to Github Pages
