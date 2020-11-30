@@ -1,0 +1,22 @@
+# Welcome to Jekyll!
+
+# Website settings
+title: Purdue ACM
+description: Homepage for Purdue's ACM chapter
+keywords: Purdue, ACM, SIGAI, SIGAPP, SIGGD, SIGBots
+baseurl:
+url: https://acm.cs.purdue.edu
+# If testing locally, set baseurl to the location of the repo's folder
+
+## carousels
+index_carousel: on  # index page carousel switch
+
+# scss
+sass:
+  style: compressed
+
+# Build settings
+encoding: utf-8
+
+plugins:
+  - jekyll-sitemap

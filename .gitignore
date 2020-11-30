@@ -1,0 +1,6 @@
+.jekyll-cache/
+_site/
+
+# Useless Apple files
+*.DS_Store
+
