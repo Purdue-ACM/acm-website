@@ -4,7 +4,7 @@ name: Deploy Site to GH Pages
 
 on:
   push:
-    branches: [clean]
+    branches: [master]
 
 jobs:
   build:
