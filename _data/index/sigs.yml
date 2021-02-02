@@ -3,10 +3,10 @@
 - name: SIGAI
   i18n: sigai
   img: /static/assets/img/landing/sig-logos/sigai_logo.png
-  president: Krithik Rao
-  email: rao96@purdue.edu
+  president: Andrew Riordan
+  email: riordana@purdue.edu
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
-  meeting-room: LWSN B158
+  meeting-room: Discord
   meeting-day: Saturday
   meeting-time: 2:00PM
 
@@ -17,7 +17,7 @@
   president: Josh Kassman
   email: jkassman@purdue.edu
   desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends.
-  meeting-room: LWSN B160
+  meeting-room: Discord
   meeting-day: Tuesday, Thursday
   meeting-time: 7:00PM
 
@@ -36,9 +36,9 @@
   i18n: siggd
   url: http://purduesiggd.github.io/
   img: /static/assets/img/landing/sig-logos/siggd_logo.png
-  president: Clayton Detke
-  email: cjdetke@yahoo.com
+  president: Sam Schafer
+  email: schafe43@purdue.edu
   desc: SIGGD is a group of multi-disciplinary students who collaborate to create creative and interesting video games.
-  meeting-room: LWSN B131
+  meeting-room: Discord
   meeting-day: Tuesday, Thursday, Saturday
   meeting-time: 6:00PM
