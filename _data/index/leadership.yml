@@ -2,13 +2,13 @@
 
 - position: President
   name: Jami Pryde
-  img: /static/assets/img/landing/leadership/Joe.png
+  img: /static/assets/img/landing/leadership/Jami.png
   email: jpryde@purdue.edu
   desc: Jami Pryde is a Junior studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the President of SOET Ambassadors and the Strategy Lead for SIGBots. In her free time, Jami can be found relaxing around campus or playing video games.
 
 - position: Vice President
   name: Chris Ridenour
-  img: /static/assets/img/landing/leadership/Jami.jpg
+  img: /static/assets/img/landing/leadership/Chris.jpg
   email:	ridenou1@purdue.edu
   desc: Chris is a senior in Computer Engineering minoring in Political Science from Laurel, Maryland. He has been part of ACM for the last 3 years, starting as a mechanics member of SIGBOTS. He has also recently served as the President of SIGBOTS, and has had one internship at Cleveland-Cliffs.
   
@@ -20,6 +20,6 @@
 
 - position: Secretary
   name: A.R. Miller
-  img: /static/assets/img/landing/leadership/Will.jpg
+  img: /static/assets/img/landing/leadership/AR.jpg
   email: 	mill2708@purdue.edu
   desc: AR is a sophomore in Aero/Astro Engineering from Boston, MA. This is her second year in ACM and in Purdue SIGBOTS, where she acts as treasurer and brand manager, and is a part of the mechanics team. She works part-time as a CAD modeler and is involved in engineering education research on campus. In her free time, she can be found drawing, reading anything space-related, and building mechanical keyboards.
