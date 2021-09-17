@@ -1,25 +1,25 @@
 # ACM Leadership
 
 - position: President
-  name: Joseph Busse
-  img: /static/assets/img/landing/leadership/Joe.png
-  email: jbusse@purdue.edu
-  desc: Joe is a senior in Computer Science minoring in Management from Zionsville, IN. He has been a part of ACM for 4 years, starting as a part of SIGBOTS, and this is his second semester as President. He has had 2 internships with Sharpen Technologies. In his free time, he can be found cooking, hiking, or playing games.
+  name: Jami Pryde
+  img: /static/assets/img/landing/leadership/Jami.png
+  email: jpryde@purdue.edu
+  desc: Jami Pryde is a Junior studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the President of SOET Ambassadors and the Strategy Lead for SIGBots. In her free time, Jami can be found relaxing around campus or playing video games.
 
 - position: Vice President
-  name: Jami Pryde
-  img: /static/assets/img/landing/leadership/Jami.jpg
-  email: jpryde@purdue.edu
-  desc: Jami Pryde is a sophomore studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the Vice President of SOET Ambassadors and the Strategy Lead for SIGBots. In her free time, Jami can be found relaxing around campus or volunteering with Women in Technology.
-
+  name: Chris Ridenour
+  img: /static/assets/img/landing/leadership/Chris.jpg
+  email:	ridenou1@purdue.edu
+  desc: Chris is a senior in Computer Engineering minoring in Political Science from Laurel, Maryland. He has been part of ACM for the last 3 years, starting as a mechanics member of SIGBOTS. He has also recently served as the President of SIGBOTS, and has had one internship at Cleveland-Cliffs.
+  
 - position: Treasurer
-  name: Shubham Jain
-  img: /static/assets/img/landing/leadership/Shu.jpg
-  email: jain229@purdue.edu
-  desc: Shubham Jain is a senior majoring in Computer Science and minoring in ECE and Math. He is interested primarily in the fields of systems, embedded and game development. In his spare time, he reads fantasy fiction and plays strategy games.
-
-- position: Secretary
   name: Will Xu
   img: /static/assets/img/landing/leadership/Will.jpg
   email: xu1475@purdue.edu
-  desc: Will is a sophomore in Computer Engineering from Tustin, California. Before becoming the ACM Secretary, he was a member of the Software team on the Purdue Sigbots. He is also still currently looking for an internship for the summer of 2021.
+  desc: Will is a sophomore in Computer Engineering from Tustin, California. Before becoming the ACM Treasurer, he was a member of the Software team on the Purdue Sigbots. He is also still currently looking for an internship for the summer of 2022.
+
+- position: Secretary
+  name: A.R. Miller
+  img: /static/assets/img/landing/leadership/AR.jpg
+  email: 	mill2708@purdue.edu
+  desc: AR is a sophomore in Aero/Astro Engineering from Boston, MA. This is her second year in ACM and in Purdue SIGBOTS, where she acts as treasurer and brand manager, and is a part of the mechanics team. She works part-time as a CAD modeler and is involved in engineering education research on campus. In her free time, she can be found drawing, reading anything space-related, and building mechanical keyboards.
