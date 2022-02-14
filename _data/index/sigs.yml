@@ -3,11 +3,11 @@
 - name: SIGAI
   i18n: sigai
   img: /static/assets/img/landing/sig-logos/sigai_logo.png
-  president: Andrew Riordan
-  email: 	riordana@purdue.edu
+  president: Anna Shen
+  email: shen473@purdue.edu
   desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
-  meeting-room: Discord
-  meeting-day: Tuesday (Bi-Weekly)
+  meeting-room: LWSN B134
+  meeting-day: Monday (Bi-Weekly)
   meeting-time: 7:30PM
 
 - name: SIGAPP
