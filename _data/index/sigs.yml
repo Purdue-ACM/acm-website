@@ -14,11 +14,11 @@
   i18n: sigapp
   img: /static/assets/img/landing/sig-logos/sigapp_logo.png
   url: https://sigapp.cs.purdue.edu/
-  president: Ian Ryan
-  email: iryan@purdue.edu
-  desc: SIGAPP is centered on full stack mobile development including Android, iOS, and scalable cloud backends.
-  meeting-room: Discord
-  meeting-day: Tuesday, Thursday
+  president: Tommy Lane
+  email: talane@purdue.edu
+  desc: SIGAPP is centered on full stack development including Android, iOS, Web, and scalable cloud backends. See our website and join our discord for more information.
+  meeting-room: LWSN B160
+  meeting-day: Tuesday & Thursday
   meeting-time: 7:00PM
 
 - name: SIGBOTS
