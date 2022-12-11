@@ -39,10 +39,10 @@
   img: /static/assets/img/landing/projects/defaulticon.svg
   desc: SIGGD's Fall 2017 - Spring 2018 Project, a multiplayer class-based wizard fighting game.
 
-- name: Snake AI V2
-  i18n: snakev2
-  gh_user: PurdueSIGAI
-  repo: Snake-V2
+- name: AI in VEX: Pac-Man Pete
+  i18n: BLRS AI
+  gh_user: BLRSAI
+  repo: release_TP_competition_code
   sig: SIGAI
-  img: /static/assets/img/landing/projects/defaulticon.svg
-  desc: Revamp of SIGAI's Snake AI.
+  img: /static/assets/img/landing/projects/blrsai.png
+  desc: Fully autonomous robot for VEX.
