@@ -39,8 +39,8 @@
   img: /static/assets/img/landing/projects/defaulticon.svg
   desc: SIGGD's Fall 2017 - Spring 2018 Project, a multiplayer class-based wizard fighting game.
 
-- name: AI in VEX: Pac-Man Pete
-  i18n: BLRS AI
+- name: AI in VEX, Pac-Man Pete
+  i18n: BLRSAI
   gh_user: BLRSAI
   repo: release_TP_competition_code
   sig: SIGAI
