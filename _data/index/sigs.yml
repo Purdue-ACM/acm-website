@@ -1,16 +1,5 @@
 # SIGs section data
 
-- name: SIGAI
-  i18n: sigai
-  img: /static/assets/img/landing/sig-logos/sigai_logo.png
-  url: https://discord.gg/zcsDGX5XYD
-  president: Jacob Zietek
-  email: jzietek@purdue.edu
-  desc: SIGAI is a group of people interested in discussing artificial intelligence and working on projects related to all aspects of artificial intelligence.
-  meeting-room: LWSN
-  meeting-day: Tuesday, Thursday
-  meeting-time: 6:30PM
-
 - name: SIGAPP
   i18n: sigapp
   img: /static/assets/img/landing/sig-logos/sigapp_logo.png
@@ -37,8 +26,8 @@
   i18n: siggd
   url: http://purduesiggd.github.io/
   img: /static/assets/img/landing/sig-logos/siggd_logo.png
-  president: Sam Schafer
-  email: schafe43@purdue.edu
+  president: Andy Sharpe
+  email: sharpeaj@purdue.edu
   desc: SIGGD is a group of multi-disciplinary students who collaborate to create creative and interesting video games.
   meeting-room: Discord
   meeting-day: Monday, Wednesday, Friday

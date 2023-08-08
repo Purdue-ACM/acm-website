@@ -31,18 +31,18 @@
   img: /static/assets/img/landing/projects/corecmonitor.png
   desc: An app for monitoring the status and capacity of the Purdue CoRec.
 
-- name: Project W
-  i18n: projectw
+- name: The Vyronov Effect
+  i18n: thevyronoveffect
   gh_user: PurdueSIGGD
-  repo: ProjectW
+  repo: SIGGD-Game-2022
   sig: SIGGD
   img: /static/assets/img/landing/projects/defaulticon.svg
-  desc: SIGGD's Fall 2017 - Spring 2018 Project, a multiplayer class-based wizard fighting game.
+  desc: SIGGD's Fall 2022 - Spring 2023 Project, a third person dungeon crawling stealth game.
 
-- name: AI in VEX, Pac-Man Pete
-  i18n: BLRSAI
-  gh_user: BLRSAI
-  repo: release_TP_competition_code
-  sig: SIGAI
-  img: /static/assets/img/landing/projects/blrsai.png
-  desc: Fully autonomous robot for VEX.
+- name: Sight-Vines
+  i18n: sightvines
+  gh_user: PurdueSIGGD
+  repo: SIGGD-Game-2021
+  sig: SIGGD
+  img: /static/assets/img/landing/projects/defaulticon.svg
+  desc: SIGGD's Fall 2021 - Spring 2022 Project, a top-down stealth boss-fighting game.
