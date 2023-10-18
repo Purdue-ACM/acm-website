@@ -15,12 +15,12 @@
   i18n: sigbots
   url: https://purduesigbots.com/
   img: /static/assets/img/landing/sig-logos/sigbots_logo.png
-  president: Micah Rassi
-  email: mrassi@purdue.edu
+  president: Max Johnson
+  email: mhjohnso@purdue.edu
   desc: SIGBOTS is focused on competition in the VEX U Robotics Competition and maintaining PROS, an open-source Robotics Operating System.
   meeting-room: HAAS G064
-  meeting-day: Monday, Tuesday, Wednesday, Thursday
-  meeting-time: 7:00PM
+  meeting-day: Tuesday, Wednesday, Thursday
+  meeting-time: 6:00PM
 
 - name: SIGGD
   i18n: siggd
