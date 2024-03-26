@@ -2,18 +2,18 @@
 
 - position: President
   name: Seb Wheeler
-  img: /static/assets/img/landing/leadership/Seb.jpg
+  img: /static/assets/img/landing/leadership/Seb.JPG
   email: wheel103@purdue.edu
-  desc: Seb is a sophomore in cybersecuriry from South Bend, IN. This is their second year in both ACM and on SIGBots, where they are currently a member of the wiki development, software, and strategy subteams. In her free time, Seb can be found reading, working on projects, or hanging out with her cat.
+  desc: Seb is a junior in cybersecurity from South Bend, IN. This is their second year in both ACM and on SIGBots, where they are currently a member of the wiki development, software, and strategy subteams. In her free time, Seb can be found reading, working on projects, or hanging out with her cat.
 
 - position: Vice President
-  name: Jami Pryde
-  img: /static/assets/img/landing/leadership/Jami.jpg
-  email: jpryde@purdue.edu
-  desc: Jami Pryde is a Senior studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the President of SOET Ambassadors and a member of the Strategy subteam for SIGBots. In her free time, Jami can be found relaxing around campus or playing video games.
+  name: Andy Sharpe
+  img: /static/assets/img/landing/leadership/Andy.jpg
+  email: sharpeaj@purdue.edu
+  desc: Andy is a senior in Computer Science and president of SIGGD
   
 - position: Treasurer
-  name: A.R. Miller
-  img: /static/assets/img/landing/leadership/AR.jpg
-  email: 	mill2708@purdue.edu
-  desc: AR is a junior in Aeronautical and Astronautical engineering. Outside of school, AR leads CS159 Supplemental Instruction and does Engineering Education research, as well as participates in Purdue SIGBots robotics. In their free time, AR enjoys listening to vinyl, playing bass guitar, and playing with their cat, Toast.
+  name: Jacob Zawacki
+  img: /static/assets/img/landing/leadership/Jacob.jpg
+  email: 	jmzawack@purdue.edu
+  desc: Jacob is a junior in marketing
