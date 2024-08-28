@@ -1,19 +1,20 @@
 # ACM Leadership
 
 - position: President
-  name: Seb Wheeler
-  img: /static/assets/img/landing/leadership/Seb.jpg
-  email: wheel103@purdue.edu
-  desc: Seb is a sophomore in cybersecuriry from South Bend, IN. This is their second year in both ACM and on SIGBots, where they are currently a member of the wiki development, software, and strategy subteams. In her free time, Seb can be found reading, working on projects, or hanging out with her cat.
+  name: Kathleen Lowe
+  img: /static/assets/img/landing/leadership/kathleen.jpg
+  email: lowe116@purdue.edu
+  desc: Hi, everyone! My name is Kathleen Lowe, and this year I’m proud to serve as ACM President. In addition to this role, I am also this year’s ACM SIGBots Event Planner. I’m a sophomore double majoring in Computer Science and Philosophy, and I’m from Nashville, Tennessee. When I’m not in class or working with ACM, I enjoy journaling, baking, and watching Disney movies. I’m so excited to work with such an awesome team of ACM officers this year!
 
 - position: Vice President
-  name: Jami Pryde
-  img: /static/assets/img/landing/leadership/Jami.jpg
-  email: jpryde@purdue.edu
-  desc: Jami Pryde is a Senior studying Mechatronics and Robotics Engineering Technology from Crown Point, IN. Jami is also the President of SOET Ambassadors and a member of the Strategy subteam for SIGBots. In her free time, Jami can be found relaxing around campus or playing video games.
-  
+   name: Seb Wheeler
+  img: /static/assets/img/landing/leadership/Seb.JPG
+  email: wheel103@purdue.edu
+  desc: Seb is a senior in CNIT and WGSS from South Bend, IN. This is their fourth year in both ACM and on SIGBots, where they are currently a member of the wiki development and judging subteams. In her free time, Seb can be found reading, working on projects, or hanging out with her cat.
+
 - position: Treasurer
-  name: A.R. Miller
-  img: /static/assets/img/landing/leadership/AR.jpg
-  email: 	mill2708@purdue.edu
-  desc: AR is a junior in Aeronautical and Astronautical engineering. Outside of school, AR leads CS159 Supplemental Instruction and does Engineering Education research, as well as participates in Purdue SIGBots robotics. In their free time, AR enjoys listening to vinyl, playing bass guitar, and playing with their cat, Toast.
+  name: Jacob Zawacki
+  email: jmzawack@purdue.edu
+  img: /static/assets/img/landing/leadership/jacob.jpg
+  desc: Jacob is a senior studying Marketing and Finance at the Daniels School of Business. Jacob is the Judging Lead for the Purdue SIGBots, having competed on the team since 2021. Outside of ACM, Jacob enjoys traveling, playing board games, and creative writing.
+
