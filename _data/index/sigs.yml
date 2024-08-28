@@ -4,12 +4,12 @@
   i18n: sigapp
   img: /static/assets/img/landing/sig-logos/sigapp_logo.png
   url: https://sigapp.cs.purdue.edu/
-  president: Tommy Lane
-  email: talane@purdue.edu
+  president: Colin Wu
+  email: wu1886@purdue.edu
   desc: SIGAPP is centered on full stack development including Android, iOS, Web, and scalable cloud backends. See our website and join our discord for more information.
-  meeting-room: LWSN B160
+  meeting-room: LWSN B148
   meeting-day: Tuesday & Thursday
-  meeting-time: 7:00PM
+  meeting-time: 7:30PM
 
 - name: SIGBOTS
   i18n: sigbots
@@ -26,9 +26,9 @@
   i18n: siggd
   url: http://purduesiggd.github.io/
   img: /static/assets/img/landing/sig-logos/siggd_logo.png
-  president: Andy Sharpe
-  email: sharpeaj@purdue.edu
+  president: Ivan Yang
+  email: yang2006@purdue.edu
   desc: SIGGD is a group of multi-disciplinary students who collaborate to create creative and interesting video games.
-  meeting-room: Discord and LWSN B155
+  meeting-room: Discord and LWSN B148
   meeting-day: Monday, Wednesday, Friday
-  meeting-time: 7:00PM
+  meeting-time: 7:30PM
